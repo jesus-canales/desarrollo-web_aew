@@ -1,4 +1,4 @@
-# Arquitectura de Entornos Web (AEW)
+# Desarrollo Web (AEW)
 
 ## 🚀 Descripción
 Este repositorio contiene código de sesiones de clase y proyectos web modernos utilizando tecnologías como HTML5, CSS3, JavaScript, jQuery, Bootstrap, entre otros.
