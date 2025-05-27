@@ -4,15 +4,10 @@
 Este repositorio contiene código de sesiones de clase y proyectos web modernos utilizando tecnologías como HTML5, CSS3, JavaScript, jQuery, Bootstrap, entre otros.
 
 ## 👨‍💻 Sesiones  
-<<<<<<< HEAD
-- Sesión 01:
-- Sesión 02:
-=======
+
 - Sesión 01: Fundamentos de proyecto web
 - Sesión 02: Elementos gráficos  
 - Sesión 03: Estructura de proyecto web
-
->>>>>>> 47ad805 (Avances del curso de AEW)
 
 ## 🛠️ Tecnologías utilizadas
 
