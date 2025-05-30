@@ -7,7 +7,8 @@ Este repositorio contiene código de sesiones de clase y proyectos web modernos 
 
 - Sesión 01: Fundamentos de proyecto web
 - Sesión 02: Elementos gráficos  
-- Sesión 03: Estructura de proyecto web
+- Sesión 03: Estructura de proyecto web  
+- Sesión 04: Creamos nuestras primeras páginas web con HTML
 
 ## 🛠️ Tecnologías utilizadas
 
