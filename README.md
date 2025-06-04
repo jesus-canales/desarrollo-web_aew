@@ -9,6 +9,7 @@ Este repositorio contiene código de sesiones de clase y proyectos web modernos 
 - Sesión 02: Elementos gráficos  
 - Sesión 03: Estructura de proyecto web  
 - Sesión 04: Creamos nuestras primeras páginas web con HTML
+- Sesión 05: Empezamos a trabajar con estilos css (formas de utilizar los estilos en una página web).
 
 ## 🛠️ Tecnologías utilizadas
 
