@@ -10,6 +10,9 @@ Este repositorio contiene código de sesiones de clase y proyectos web modernos 
 - Sesión 03: Estructura de proyecto web  
 - Sesión 04: Creamos nuestras primeras páginas web con HTML
 - Sesión 05: Empezamos a trabajar con estilos css (formas de utilizar los estilos en una página web).
+- Sesión 06: He descrito y explicado los tipos de selectores CSS y cómo se utilizan en el desarrollo web.
+- Sesión 07: El modelo de cajas es importante conocer para poder personalizar los elementos HTML de un proyecto web.
+- Sesión 08: Establecer la posición de cada elemento HTML en la página así como utilizar etiquetas estructurales.
 
 ## 🛠️ Tecnologías utilizadas
 
