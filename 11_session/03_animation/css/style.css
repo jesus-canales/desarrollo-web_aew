@@ -26,3 +26,12 @@ h3 {
     line-height: 100px;
     font-weight: bold;    
 }
+
+@keyframes cambiarColor {
+    from { background-color: #3498db; }
+    to { background-color: #e74c3c; }
+}
+
+.animacion-color{
+    animation: cambiarColor 2s infinite;
+}
