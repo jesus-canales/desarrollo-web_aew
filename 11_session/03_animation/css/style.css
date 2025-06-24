@@ -33,5 +33,5 @@ h3 {
 }
 
 .animacion-color{
-    animation: cambiarColor 2s infinite;
+    animation: cambiarColor 2s infinite alternate;
 }
