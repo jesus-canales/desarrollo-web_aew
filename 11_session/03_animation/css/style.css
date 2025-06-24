@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+    background: #dcd2f5;
+}
+
+h3 {
+    color: #e7062b;
+}
+
+.animation {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;    
+}
+
+.animation .box {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: #3498db;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;    
+}
