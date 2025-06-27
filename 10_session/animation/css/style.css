@@ -20,10 +20,20 @@ h3{
     width: 100px;
     height: 100px;
     margin: 20px;
-    background-color: #8a4f03;
+    background-color: #800202;
     border-radius: 8px;
     color: white;
     text-align: center;
     line-height: 100px;
     font-weight: bold;   
+}
+
+/* Definimos la animación */
+@keyframes cambiarColor {
+    from { background-color: #800202; }
+    to { background-color: #f12222; }
+}
+
+.animation-color {
+    animation: cambiarColor 2s infinite;
 }
