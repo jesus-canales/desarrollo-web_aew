@@ -6,7 +6,7 @@
      background: #f4f4f4;
  }
 
-  /* Personalizando el encabezado */
+ /* Personalizando el encabezado */
  header {
      background-color: #0a3d62;
      color: white;
@@ -15,8 +15,42 @@
      animation: aparecerDesdeArriba 1s ease-out;
  }
 
-  /* Definimos la animación */
+ /* Definimos la animación */
  @keyframes aparecerDesdeArriba {
-      from { transform: translateY(-100px); opacity: 0; }
-      to { transform: translateY(0); opacity: 1; }
+     from {
+         transform: translateY(-100px);
+         opacity: 0;
+     }
+
+     to {
+         transform: translateY(0);
+         opacity: 1;
+     }
+ }
+
+ /* Definimos los estilos de la sección vehículos */
+ .vehiculos {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     gap: 2rem;
+     padding: 2rem;
+ }
+
+  /* Definimos el estilo de cada card */
+ .card {
+    width: calc(33.33% - 2rem);
+    min-width: 250px; /* nunca más pequeño de 250px */
+    max-width: 100%;  /* no se pase del contenedor */
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+ }
+
+ /* Definimos la transformación del card al pasar el mouse */
+ .card:hover {
+      transform: translateY(-10px) scale(1.05);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.3);
  }
