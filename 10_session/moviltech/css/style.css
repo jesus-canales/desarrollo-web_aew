@@ -51,7 +51,7 @@
   /* Pulimos la presentación de las imágenes */
  .card img {
     width: 100%;
-    height: fit-content;
+    height: 200px;
     object-fit: cover;
     transition: transform 0.5s ease;
  }
