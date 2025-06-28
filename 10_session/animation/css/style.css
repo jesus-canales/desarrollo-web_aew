@@ -34,6 +34,7 @@ h3 {
     to { background-color: rgb(185, 47, 4);}
 }
 
+/* Ejecutando la animación definida */
 .animacion-color {
-    animation: cambiarColor 2s infinite;
+    animation: cambiarColor 0.3s infinite;
 }
