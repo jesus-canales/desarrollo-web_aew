@@ -55,3 +55,32 @@
     object-fit: cover;
     transition: transform 0.5s ease;
  }
+
+  /* Definimos la transformación del card */
+ .card:hover img {
+    transform: scale(1.1);
+ }
+
+  /* Aplicaremos pading al contenido (textos) */
+ .card .contenido {
+    padding: 1rem;
+ }
+
+  /* Ahora trabajaremos en el botón */
+  .boton {
+    display: inline-block;
+    background-color: #27ae60;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s, transform 0.3s;
+ }
+
+  /* Definmos transformación en los botones */
+ .boton:hover {
+    background-color: #b91004;
+    transform: scale(1.05);
+ }
